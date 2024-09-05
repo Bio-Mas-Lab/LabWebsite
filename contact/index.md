@@ -15,9 +15,9 @@ Inquiries can be directed to [XXXXX](emailaddress).
 ## Directions
 
 {% capture text %}
-Our lab is located in Room 218 (2nd floor) of the [Depatment of Physics & Astronomy](https://www.physics.uwo.ca/) at Western University. 
+Our lab is located in Room 271 (2nd floor) of the [Depatment of Physics & Astronomy](https://www.physics.uwo.ca/) at Western University. 
 
-Address: 1151 Richmond Street, Room 3237, London, ON, Canada, N6A 3K7 [[map](https://www.google.com/maps/place/Physics+and+Astronomy,+1151+Richmond+St,+London,+ON+N6G+2V4/@43.0094113,-81.2739824,18.25z)]
+Address: 1151 Richmond Street, Room 271, London, ON, Canada, N6A 3K7 [[map](https://www.google.com/maps/place/Physics+and+Astronomy,+1151+Richmond+St,+London,+ON+N6G+2V4/@43.0094113,-81.2739824,18.25z)]
 
 {% endcapture %}
 
