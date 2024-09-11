@@ -12,5 +12,5 @@ Our lab is dedicated to assembling a diverse and interdisciplinary team of scien
 
 ### {% include icon.html icon="fa-solid fa-hands-helping" %}Ongoing Opportunities
 We look for motivated Ph.D. students and postdoctoral researchers. Ideal candidates will have a graduate or undergraduate degree in physics, biomedical engineering or related field. Prioir knowledge in one or more of the following will be helpful: statistical physics, optics, microscopy, single molecule imaging, image analysis, coding in Python or Matlab. 
-<br>If you are eager to push the boundaries of scientific knowledge and collaborate in a vibrant research environment, you are encouraged to send an inquiry and CV to [XXXXX](emailaddress).
+<br>If you are eager to push the boundaries of scientific knowledge and collaborate in a vibrant research environment, you are encouraged to send an inquiry and CV to [yshi673@uwo.ca](emailaddress).
 {% include section.html %}

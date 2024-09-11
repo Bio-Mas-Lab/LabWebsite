@@ -7,7 +7,7 @@ aliases:
   - Y. Shi
   - Y Shi
 links:
-  email: contact@yushi1898DESCRIPTION=An engaging 1-3 sentence description of your lab..com
+  email: yshi673@uwo.ca
   orcid: 0000-0002-8827-7500
   google-scholar: Bt-A-p8AAAAJ
 ---
