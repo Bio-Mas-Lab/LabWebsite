@@ -13,7 +13,7 @@
   orcid: 0000-0002-8827-7500
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/JBO_29_8_086502_f001.png
+  image: images/publications/JBO_29_8_086502_f001.png
 - id: doi:10.1038/s41592-023-02126-0
   title: Smart lattice light-sheet microscopy for imaging rare and complex cellular
     events
@@ -32,7 +32,7 @@
   orcid: 0000-0002-8827-7500
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/NatMet_41592_2023_2126_Fig4_HTML.png
+  image: images/publications/NatMet_41592_2023_2126_Fig4_HTML.png
 - id: doi:10.48550/arXiv.2309.06226
   title: "L\xE9vy distributed fluctuations in the living cell cortex"
   authors:
@@ -64,7 +64,7 @@
   orcid: 0000-0002-8827-7500
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/Real-space-characterizations-of-20m-long-Gaussian-MB-square-and-hexagonal-lattice-light.png
+  image: images/publications/Real-space-characterizations-of-20m-long-Gaussian-MB-square-and-hexagonal-lattice-light.png
 - id: doi:10.1002/cpz1.433
   title: Measuring Cytoskeletal Mechanical Fluctuations and Rheology with Active Micropost
     Arrays
@@ -79,7 +79,7 @@
   orcid: 0000-0002-8827-7500
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/cpz1433-fig-0001-m.png
+  image: images/publications/cpz1433-fig-0001-m.png
 - id: doi:10.1039/D1LC00600B
   title: A multi-functional microfluidic device compatible with widefield and light
     sheet microscopy
@@ -97,7 +97,7 @@
   orcid: 0000-0002-8827-7500
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/d1lc00600b-f1.gif
+  image: images/publications/d1lc00600b-f1.gif
 - id: doi:10.1093/intbio/zyab017
   title: Pervasive cytoquakes in the actomyosin cortex across cell types and substrate
     stiffness
@@ -115,7 +115,7 @@
   orcid: 0000-0002-8827-7500
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/int_bio_m_cover.jpeg
+  image: images/publications/int_bio_m_cover.jpeg
 - id: doi:10.1038/s41598-021-83398-4
   title: Optogenetic current in myofibroblasts acutely alters electrophysiology and
     conduction of co-cultured cardiomyocytes
@@ -132,7 +132,7 @@
   orcid: 0000-0002-8827-7500
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/41598_2021_83398_Fig2_HTML.gif
+  image: images/publications/41598_2021_83398_Fig2_HTML.gif
 - id: doi:10.1016/j.bios.2020.112389
   title: Force-dependent trans-endocytosis by breast cancer cells depletes costimulatory
     receptor CD80 and attenuates T cell activation
@@ -153,7 +153,7 @@
   orcid: 0000-0002-8827-7500
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/nihms-1666885-f0001.jpg
+  image: images/publications/nihms-1666885-f0001.jpg
 - id: doi:10.1073/pnas.1900963116
   title: Dissecting fat-tailed fluctuations in the cytoskeleton with active micropost
     arrays
@@ -168,7 +168,7 @@
   orcid: 0000-0002-8827-7500
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/pnas.1900963116fig01.jpeg
+  image: images/publications/pnas.1900963116fig01.jpeg
 - id: doi:10.1039/c4lc01395f
   title: A microfabricated magnetic actuation device for mechanical conditioning of
     arrays of 3D microtissues
@@ -202,6 +202,6 @@
   publisher: Nature Communications
   date: '2024-05-16'
   link: https://doi.org/gt9fz7
-  image: ../images/publications/41467_2024_48562_Fig1_HTML.webp
+  image: images/publications/41467_2024_48562_Fig1_HTML.webp
   plugin: sources.py
   file: sources.yaml
