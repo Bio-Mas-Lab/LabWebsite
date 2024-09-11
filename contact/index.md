@@ -7,7 +7,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-paper-plane" %}Contact
 
 
-Inquiries can be directed to [yshi673@uwo.ca](emailaddress).
+Inquiries can be directed to [yshi673@uwo.ca](yshi673@uwo.ca).
 {:.center}
 
 {% include section.html %}
