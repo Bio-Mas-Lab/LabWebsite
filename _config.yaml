@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Bio-Mas-LabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
-description: 
+title: BIO-MAS Lab
+subtitle: Biophysics of Intracellular Organization - Mechanical And Superresolution
+description: Shi Lab @ Western University
 header: images/background1.png
 footer: images/background2.jpg
 proofer: false
