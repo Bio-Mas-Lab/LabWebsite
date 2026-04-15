@@ -5,6 +5,6 @@
 
   # Bio-Mas-Lab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[bio-mas-lab.github.io/LabWebsite](https://bio-mas-lab.github.io/LabWebsite)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
