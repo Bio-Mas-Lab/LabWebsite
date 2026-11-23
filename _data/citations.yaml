@@ -1,5 +1,64 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41592-026-03066-1
+  title: A multimodal adaptive optical microscope for in vivo imaging from molecules
+    to organisms
+  authors:
+  - Tian-Ming Fu
+  - Gaoxiang Liu
+  - Daniel E. Milkie
+  - Xiongtao Ruan
+  - "Frederik G\xF6rlitz"
+  - Yu Shi
+  - Valentina Ferro
+  - Nikita S. Divekar
+  - Wei Wang
+  - Harrison M. York
+  - Velat Kilic
+  - Matthew Mueller
+  - Yajie Liang
+  - Timothy A. Daugird
+  - Maria Jose Gacha-Garay
+  - Kathryn A. Larkin
+  - Rebecca C. Adikes
+  - Nathanael Harrison
+  - Cyna Shirazinejad
+  - Samara Williams
+  - Jamison L. Nourse
+  - Shu-Hsien Sheu
+  - Liang Gao
+  - Tongchao Li
+  - Chandrani Mondal
+  - Kemal Achour
+  - Wilmene Hercule
+  - Daniel R. Stabley
+  - Kevin Emmerich
+  - Peng Dong
+  - David G. Drubin
+  - Zhe J. Liu
+  - Jeff S. Mumm
+  - Minoru Koyama
+  - Alison N. Killilea
+  - Jose Javier Bravo-Cordero
+  - C. Dirk Keene
+  - Liqun Luo
+  - Tomas Kirchhausen
+  - Medha M. Pathak
+  - Senthil Arumugam
+  - "James K. Nu\xF1ez"
+  - Ruixuan Gao
+  - David Q. Matus
+  - Benjamin L. Martin
+  - Ian A. Swinburne
+  - Eric Betzig
+  - Wesley R. Legant
+  - Srigokul Upadhyayula
+  publisher: Nature Methods
+  date: '2026-05-22'
+  link: https://doi.org/hb48gb
+  orcid: 0000-0002-8827-7500
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41567-025-02937-2
   title: From actin to action
   authors:
